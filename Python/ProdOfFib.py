@@ -19,7 +19,8 @@ def productFib(prod):
 
         count += 1
 
-    fib.sort().append(False)
+    fib.sort()
+    fib.append(False)
     return fib
 
 def productFibChris(prod):

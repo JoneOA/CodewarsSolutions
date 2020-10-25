@@ -30,4 +30,4 @@ def snail(snail_map):
     return test
 
 array = [[1,2,3],[8,9,4],[7,6,5]]
-snail(array)
+print(snail(array))
